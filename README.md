@@ -77,5 +77,5 @@ poetry run python duck_parquet.py
 
 ## Autor
 
-  * [Samuel Figueiredo](https://www.google.com/search?q=https://github.com/SamuelF15)
+  * [Samuel Figueiredo](https://github.com/SamuelF15)
 
